@@ -15,4 +15,7 @@ public class TEST {
     //test3
     //test4
     //test 5
+    public static void main(String[] args) {
+        System.out.println("Ok");
+    }
 }
