@@ -10,5 +10,6 @@ package az.idrak.edu.myfirstgitproject;
  * @author Rzayev
  */
 public class TEST {
+    private static int id = 159;
     
 }
